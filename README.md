@@ -1,5 +1,11 @@
 # 🔄 Funnel Analysis — Python Data Analytics Project
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+
 A business-focused **Funnel Analysis project using Python** to understand customer journey behavior, identify major conversion bottlenecks, evaluate channel and segment performance, and uncover opportunities to improve purchase conversion and revenue.
 
 ---
